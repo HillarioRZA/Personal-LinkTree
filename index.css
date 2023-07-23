@@ -82,6 +82,7 @@ footer span {
 }
 
 @media only screen and (max-width: 450px) {
+  html, body {margin: 0; height: 100%; overflow: hidden}
   .profile img {
     max-width: 150px;
     max-height: 150px;
