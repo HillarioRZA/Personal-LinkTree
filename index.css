@@ -87,10 +87,8 @@ footer span {
   }
   .link {
     width: 100%;
-    margin-left: 5%;
   }
   .link a {
-    font-size: 75%;
     margin: 3px 0px;
   }
 }
