@@ -84,6 +84,6 @@ footer span {
   }
   .link {
     width: 100%;
-    object-position: center;
+    margin-left: 0%;
   }
 }
