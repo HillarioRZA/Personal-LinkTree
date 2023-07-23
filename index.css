@@ -77,12 +77,17 @@ footer span {
   text-decoration: underline;
 }
 
-@media(max-width: 450px) {
+@media only screen and (max-width: 450px) {
   .profile img {
     max-width: 100px;
     max-height: 100px;
   }
+  .profile p {
+    font-size: 55%;
+  }
   .link a {
     font-size: 55%;
+    padding: 5px;
+    margin: 5px 30px;
   }
 }
